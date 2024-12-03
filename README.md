@@ -1,3 +1,5 @@
+> :warning: Cnics is closed-source for now as it does not yet reach my bar of quality. Please bare with me.
+
 # Cnics Operating System
 
 **Cnics** (/ˈsiːnɪks/) is a modern, lightweight, and powerful real-time operating system inspired by **Multics** and **UNIX**, designed to embrace simplicity and efficiency. Written in **Forth** and **Rust**, Cnics features a compact architecture with an **interpreted kernel** and real-time batch processing capabilities.
@@ -45,11 +47,6 @@ We welcome contributions from the community! Here's how you can get involved:
 ## License
 
 Cnics is released under the **LGPLv3 license**, ensuring open collaboration while maintaining system integrity. See the `LICENSE` file for details.
-
-## Credits
-
-- **Original Author**: Spamska
-- **Contributors**: The growing Cnics developer community
 
 ## Contact
 
